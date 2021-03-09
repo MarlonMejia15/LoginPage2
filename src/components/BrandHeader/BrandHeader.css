@@ -1,0 +1,10 @@
+header{
+    display:flex;
+    justify-content:space-between;
+    margin: 0px;
+    padding: 0.8rem;
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+    opacity:70%;
+    border:4px solid black;
+    color:white;
+}

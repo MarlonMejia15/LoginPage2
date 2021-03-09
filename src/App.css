@@ -1,0 +1,8 @@
+body{
+  margin:0px;
+  padding:0px;
+  font-family:sans-serif;
+  background:url(./components/img/fondo4.jpg) no-repeat;
+  background-size:cover;
+  height: 100vh;
+}
